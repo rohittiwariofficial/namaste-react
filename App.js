@@ -1,3 +1,30 @@
+/***
+ * @AboutParcel
+ * 
+ * HMR - Hot Module Replacement
+ * File Watcher Algorithm (Written in C++)
+ * BUNDLING 
+ * MINIFY
+ * Cleaning Our Code
+ * Dev and Production build
+ * Super fast build algorithm
+ * Image Optimization
+ * Caching while development
+ * Compression
+ * Compatible with older version of browser (add polyfills)
+ * Facilitate to enable HTTPS on development (npx parcel index.html --https) 
+ * Manage port numbers
+ * Consistent Hashing Algorithm
+ * Zero Config
+ * Tree Shaking (Remove Unwanted Code)
+ * 
+ * 
+ * 
+ */
+
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const heading = React.createElement(
     "h1",
     { id: "PageHeading", key: "heading1", style: { color: "green" } },
@@ -14,4 +41,4 @@ const heading = React.createElement(
     heading2,
   ]);
   const root = ReactDOM.createRoot(document.getElementById("root"));
-  root.render(container);
+  root.render(container); 
