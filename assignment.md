@@ -181,10 +181,10 @@
 > 9- build a production version of your code using `parcel build`
 
 <details><summary> References </summary>
-    <p>
-        - [Creating your own create-react-app](https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658)
-        - [Parcel Documentation](https://parceljs.org/getting-started/webapp/)
-        - [Parcel on Production](https://parceljs.org/features/production/)
-        - BrowsersList : https://browserslist.dev/
-    </p>
+    <sub>
+        - [Creating your own create-react-app](https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658) 
+        - [Parcel Documentation](https://parceljs.org/getting-started/webapp/) 
+        - [Parcel on Production](https://parceljs.org/features/production/) 
+        - BrowsersList : https://browserslist.dev/ 
+    </sub>
 </details>
