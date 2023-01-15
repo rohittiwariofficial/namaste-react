@@ -188,3 +188,24 @@
         - BrowsersList : https://browserslist.dev/ 
     </sub>
 </details>
+
+<!-- Chit Chat Session Notes
+
+    Word & Meaning
+    - Hustle - dhakka mukki karna
+    - FAANG  meaning pakdana
+    - desperate means bekarar
+
+
+- Crawl->Walk->Run
+- Change your intesnion to learn anything
+
+- Realization -> Don't go to your comfort zone -> Start making a plan -> Have a side hustle -> Everyday fight for it
+- Come Out from your comfort Zone / Don't go to comfort zone
+- Start Making a plan
+- Side hustle of learning - Everyday fight for it(No Break)
+- Realise it will take time
+- Hard work & Hustle & Focus & Warrior
+- Start Searching for job & Keep failing till the selection
+
+-->
