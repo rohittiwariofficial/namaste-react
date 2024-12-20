@@ -197,6 +197,9 @@
     - desperate means bekarar
 
 
+-MODULAR, READABLE, MAINTAINABLE,TESTABLE,REUSABLE
+
+
 - Crawl->Walk->Run
 - Change your intesnion to learn anything
 
